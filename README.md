@@ -28,3 +28,9 @@ Markdown	HTML	Rendered Output
 2. Second item
 3. Third item
 4. Fourth item
+ First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
